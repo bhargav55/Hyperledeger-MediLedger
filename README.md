@@ -1,4 +1,4 @@
-# Hyperledeger-MediLedger
+# MediLedger
 
 The solution stores the patient health data in blockchain. Patient can give access to doctor to add the health record upon visiting doctor.
 After health record has been added, patient can revok doctor access. Doctor can only see the patient past records records once patient provides 
